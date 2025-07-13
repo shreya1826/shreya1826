@@ -3,8 +3,6 @@
 💻 B.Tech CSE Student @ Dr. APJ Abdul Kalam Technical University (2022–2026)  
 🌐 Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-![Profile Banner](https://i.postimg.cc/DZcNVPf0/Whats-App-Image-2023-10-30-at-13-41-36-2c7cd91d.jpg)
-
 ## 🚀 Skills
 - 💻 Languages: C++, Python, JavaScript, Java, SQL
 - 🌐 Frameworks: React.js, Node.js, Express.js, Bootstrap
